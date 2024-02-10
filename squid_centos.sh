@@ -8,8 +8,8 @@
 # Site: https://knaved.com
 # Version 0.1
 
-squid_user=
-squid_password=
+squid_user=binh
+squid_password=Quacam123
 
 yum -y install squid httpd-tools
 
