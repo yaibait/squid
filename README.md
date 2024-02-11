@@ -14,7 +14,7 @@ Installation
 
 **To install on a Centos Server; one liner**
 
-curl -O https://raw.githubusercontent.com/khaledalhashem/squid/master/squid_centos.sh
+curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos.sh
 
 **To install on an Ubuntu Server; one liner**
 
