@@ -13,10 +13,16 @@ Installation
 ------------
 
 **To install on a Centos Server; one liner**
+
+
 Digital Ocean :
+
 curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos.sh && chmod +x ./squid_centos.sh && ./squid_centos.sh
+
 Vultr:
+
 curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos.sh && chmod +x ./squid_centos_vultr.sh && ./squid_centos_vultr.sh
+
 ----------------------------
 
 curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos.sh
