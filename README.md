@@ -21,7 +21,7 @@ curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos.sh &
 
 Vultr:
 
-curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos.sh && chmod +x ./squid_centos_vultr.sh && ./squid_centos_vultr.sh
+curl -O https://raw.githubusercontent.com/yaibait/squid/master/squid_centos_vultr.sh && chmod +x ./squid_centos_vultr.sh && ./squid_centos_vultr.sh
 
 ----------------------------
 
