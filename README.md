@@ -13,7 +13,8 @@ Installation
 ------------
 
 **To install on a Centos Server; one liner**
-
+Sock5 Proxy:
+curl -O https://raw.githubusercontent.com/yaibait/squid/master/sock5.sh && chmod +x ./sock5.sh && ./sock5.sh
 
 Digital Ocean :
 
