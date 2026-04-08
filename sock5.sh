@@ -5,6 +5,9 @@ socks_password=Quacam123
 PORT=4977
 SWAPSIZE=1G
 
+echo "===== FIX DNS ====="
+echo -e "nameserver 1.1.1.1\nnameserver 8.8.8.8" > /etc/resolv.conf
+
 echo "===== CHECK SWAP ====="
 
 if [ $(swapon --show | wc -l) -eq 0 ]; then
